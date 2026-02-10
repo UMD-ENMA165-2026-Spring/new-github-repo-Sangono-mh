@@ -4,3 +4,5 @@ For this repo, I chose to have the **README** file as well as a license just for
 
 I didn't add a .gitignore because it would be unnecessary for this repo, since the goal is to show being able to use a repo. The *MIT license*, from what I observed and understood, is a good license for any creator who is trying to share their software or files.
 It has limitations, but on a small scale like this, it's ok.
+
+Time to mention @guyer
